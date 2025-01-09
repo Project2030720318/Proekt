@@ -35,3 +35,14 @@
 **Като** потребител,  
 **искам** да мога да виждам списък с всички мои задачи,  
 **за да** следя какво трябва да свърша.
+
+
+#Build Instructions for Mobile Application
+Prerequisites
+  Development Environment:
+    Android Studio (за Android) или Xcode (за iOS)
+    Node.js и npm (ако се използва React Native)
+    Java Development Kit (JDK) за Android
+    CocoaPods (за iOS, ако се използва React Native)
+  Dependencies:
+    Всички необходими зависимости са описани в package.json (за React Native) или в build.gradle (за Android Native) и Podfile (за iOS Native).
